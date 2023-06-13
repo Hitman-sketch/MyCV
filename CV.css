@@ -1,0 +1,110 @@
+html,body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Roboto", sans-serif;
+}
+    
+.avatar img {
+    width: 100%;
+}
+
+.avatar h2 {
+    color: hsl(0, 1%, 21%);
+}
+
+#adobe {
+    width:60%;
+}
+
+#django {
+    width:40%;
+}
+
+#WAST {
+    width:25%;
+}
+
+#frontend {
+    width:60%;
+}
+
+#english {
+    height:20px;
+    width:88%
+}
+
+#twi {
+    height:20px;
+    width:85%
+}
+
+#ga {
+    height:20px;
+    width:85%
+}
+
+.discord {
+    height: 20px;
+    width: 20px;
+    margin-right: 15px;
+}
+
+.starters:hover {
+    color: hsl(204, 87%, 65%);
+    text-decoration: none;
+}
+.starters {
+    text-decoration: none;
+}
+
+.tcm {
+    text-decoration: none;
+}
+.tcm:hover {
+    color: hsl(204, 87%, 65%);
+    text-decoration: none;
+}
+
+.gitlink {
+    text-decoration: none;
+    color: blue;
+}
+
+#ctf {
+    padding-right: 90px;
+}
+
+#button {
+    position: relative;
+    width: 100%;
+    height: 60px;
+    border-radius: 10px;
+    margin-top: 0;
+    margin-bottom: 37px;
+    margin-left: 5px;
+    background-color: #57a8a3;
+    padding-top: 15px;
+    
+}
+
+#Bball {
+    margin-bottom: 248px;
+}
+
+#button i {
+    vertical-align: -0.35em;
+}
+#button a, #button:hover a{
+    text-decoration: none;
+}
+
+#button:hover {
+ 
+    background-color: #ffa500;
+}
+
+#button span {
+    padding-left: 100px;
+    text-decoration: none;
+}
+#top {
+    max-width:1400px;
+}
